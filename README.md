@@ -9,7 +9,8 @@ Input                                                                           
 [[1, 'adam', 120], [2, 'Ben', 113], [3, 'Stephan', 109], [3, 'roger', 109], [5, 'laura', 109], [6, 'mark', 107], [7, 'lily', 104], [7, 'shane', 104], [9, 'Brian', 101], [10, 'Mike', 98]]                                                                                                                            
 
 problem 2. arrange.py file                                                                                                                                  
-  Input : data = ['W','W','L','L','L','L', 'W', 'W','W','L','L','L']                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Result :                                                                                                                                                   
+  Input : data = ['W','W','L','L','L','L', 'W', 'W','W','L','L','L']                                                                                           
+  Result :                                                                                                                                                   
   python arrange.py
 W3
   
